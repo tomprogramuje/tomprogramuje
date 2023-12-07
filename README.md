@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Tomáš. 
+
+My current focus is on continuously expanding my knowledge of Python and Go to secure my first gig in software development.
+
 <!--
 **tomprogramuje/tomprogramuje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
